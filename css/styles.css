@@ -88,13 +88,13 @@ header {
 
 
 .website {
-    background-image: url("../images/untitlefd.jpg");
+    background-image: url("../images/Untitlefd.jpg");
     text-decoration: none;
     color:aliceblue;
 }
 
 .python {
-    background-image: url("../images/untitled.jpg");
+    background-image: url("../images/Untitled.jpg");
     text-decoration: none;
     color:#424242;
     
@@ -136,7 +136,7 @@ header {
 .pythonimage{
     flex: 40%;
     height: 400px;
-    background-image: url("../images/untitlefd.jpg");
+    background-image: url("../images/Untitlefd.jpg");
     border-color: #74FF0A;
     border-style: solid;
     margin-right: 20px;
@@ -146,7 +146,7 @@ header {
 .pythonimage2{   
     flex: 40%;
     height: 400px;
-    background-image: url("../images/untitlffed.jpg");
+    background-image: url("../images/Untitlffed.jpg");
     border-color: #74FF0A;
     border-style: solid;
     margin-left: 20px;
