@@ -46,7 +46,7 @@ header {
 
 .image{
     display: flex;
-    background-image: url("/images/portal.jpg");
+    background-image: url("../images/portal.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -88,20 +88,20 @@ header {
 
 
 .website {
-    background-image: url("/images/untitlefd.jpg");
+    background-image: url("../images/Untitlefd.jpg");
     text-decoration: none;
     color:aliceblue;
 }
 
 .python {
-    background-image: url("/images/untitled.jpg");
+    background-image: url("../images/Untitled.jpg");
     text-decoration: none;
     color:#424242;
     
 }
 
 .Coolstuff {
-    background-image: url("/images/4.jpg");
+    background-image: url("../images/4.jpg");
     text-decoration: none;
     color:#424242;
 }
@@ -136,7 +136,7 @@ header {
 .pythonimage{
     flex: 40%;
     height: 400px;
-    background-image: url("/images/untitlefd.jpg");
+    background-image: url("../images/Untitlefd.jpg");
     border-color: #74FF0A;
     border-style: solid;
     margin-right: 20px;
@@ -146,7 +146,7 @@ header {
 .pythonimage2{   
     flex: 40%;
     height: 400px;
-    background-image: url("/images/untitlffed.jpg");
+    background-image: url("../images/Untitlffed.jpg");
     border-color: #74FF0A;
     border-style: solid;
     margin-left: 20px;
@@ -155,7 +155,7 @@ header {
 .websiteimage{   
     flex: 40%;
     height: 400px;
-    background-image: url("/images/boring.jpg");
+    background-image: url("../images/boring.jpg");
     border-color: #74FF0A;
     border-style: solid;
     margin-right: 20px;
@@ -163,7 +163,7 @@ header {
 }
 .websiteimage2{   
     flex: 40%;
-    background-image: url("/images/s.jpg");
+    background-image: url("../images/s.jpg");
 
     border-color: #74FF0A;
     border-style: solid;
@@ -233,7 +233,7 @@ header {
     margin: 50px;
     width: 400px;
     height: 300px;
-    background-image: url("/images/led.jpg");
+    background-image: url("../images/led.jpg");
     border-color: #74FF0A;
     border-style: solid;
 
@@ -252,7 +252,7 @@ header {
     margin: 50px;
     width: 400px;
     height: 300px;
-    background-image: url("/images/dude.png");
+    background-image: url("../images/dude.png");
     border-color: #74FF0A;
     border-style: solid;
 }
@@ -267,7 +267,7 @@ header {
     margin: 50px;
     width: 400px;
     height: 300px;
-    background-image: url("/images/poker-night-2.jpg");
+    background-image: url("../images/poker-night-2.jpg");
     border-color: #74FF0A;
     border-style: solid;
 }
@@ -278,7 +278,7 @@ header {
     margin: 50px;
     width: 400px;
     height: 300px;
-    background-image: url("/images/scree.png");
+    background-image: url("../images/scree.png");
     border-color: #74FF0A;
     border-style: solid;
 }
